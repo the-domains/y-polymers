@@ -6,9 +6,9 @@ color:
   saturation: 0.23258739872835577
   rhythmicContrast: 0.46477081649936736
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
+    - '#FFFFFF'
+    - '#CCCCCC'
+    - '#999999'
+    - '#4D4D4D'
+    - '#333333'
 name: Y Polymers
